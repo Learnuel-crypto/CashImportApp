@@ -1,0 +1,53 @@
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\CashImportApp\CashImport\bin\Debug\CashImport.exe
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\CashImportApp\CashImport\bin\Debug\CashImport.pdb
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\CashImportApp\CashImport\bin\Debug\FileEncrypt.dll
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\CashImportApp\CashImport\bin\Debug\FileEncrypt.pdb
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\CashImportApp\CashImport\obj\Debug\CashImport.csprojResolveAssemblyReference.cache
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\CashImportApp\CashImport\obj\Debug\CashImport.CashImportForm.resources
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\CashImportApp\CashImport\obj\Debug\CashImport.Properties.Resources.resources
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\CashImportApp\CashImport\obj\Debug\CashImport.csproj.GenerateResource.Cache
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\CashImportApp\CashImport\obj\Debug\CashImport.exe
+c:\users\rccg pc admin\documents\visual studio 2015\Projects\CashImportApp\CashImport\obj\Debug\CashImport.pdb
+G:\CASH DESK FINAL\CashImportApp\CashImport\obj\Debug\CashImport.exe
+G:\CASH DESK FINAL\CashImportApp\CashImport\obj\Debug\CashImport.pdb
+G:\CASH DESK FINAL\CashImportApp\CashImport\bin\Debug\CashImport.exe
+G:\CASH DESK FINAL\CashImportApp\CashImport\bin\Debug\CashImport.pdb
+G:\CASH DESK FINAL\CashImportApp\CashImport\bin\Debug\FileEncrypt.pdb
+G:\CASH DESK FINAL\CashImportApp\CashImport\obj\Debug\CashImport.csprojResolveAssemblyReference.cache
+G:\CASH DESK FINAL\CashImportApp\CashImport\obj\Debug\CashImport.CashImportForm.resources
+G:\CASH DESK FINAL\CashImportApp\CashImport\obj\Debug\CashImport.Properties.Resources.resources
+G:\CASH DESK FINAL\CashImportApp\CashImport\obj\Debug\CashImport.csproj.GenerateResource.Cache
+G:\CASH DESK FINAL\CashImportApp\CashImport\bin\Debug\CashImport.exe.config
+F:\CASH DESK FINAL\CashImportApp\CashImport\bin\Debug\CashImport.exe.config
+F:\CASH DESK FINAL\CashImportApp\CashImport\obj\Debug\CashImport.exe
+J:\CashImportApp\CashImport\bin\Debug\CashImport.exe.config
+J:\CashImportApp\CashImport\obj\Debug\CashImport.exe
+J:\CashImportApp\CashImport\bin\Debug\CashImport.exe.manifest
+J:\CashImportApp\CashImport\bin\Debug\CashImport.application
+J:\CashImportApp\CashImport\bin\Debug\CashImport.exe
+J:\CashImportApp\CashImport\bin\Debug\CashImport.pdb
+J:\CashImportApp\CashImport\bin\Debug\FileEncrypt.pdb
+J:\CashImportApp\CashImport\obj\Debug\CashImport.csprojResolveAssemblyReference.cache
+J:\CashImportApp\CashImport\obj\Debug\CashImport.CashImportForm.resources
+J:\CashImportApp\CashImport\obj\Debug\CashImport.Properties.Resources.resources
+J:\CashImportApp\CashImport\obj\Debug\CashImport.csproj.GenerateResource.Cache
+J:\CashImportApp\CashImport\obj\Debug\CashImport.exe.manifest
+J:\CashImportApp\CashImport\obj\Debug\CashImport.application
+J:\CashImportApp\CashImport\obj\Debug\CashImport.pdb
+E:\CASH DESK FINAL\CashImportApp\CashImport\bin\Debug\CashImport.exe.config
+E:\CASH DESK FINAL\CashImportApp\CashImport\obj\Debug\CashImport.exe
+E:\CASH DESK FINAL\CashImportApp\CashImport\obj\Debug\CashImport.pdb
+E:\CashImportApp\CashImport\bin\Debug\CashImport.exe.config
+E:\CashImportApp\CashImport\obj\Debug\CashImport.exe
+E:\CashImportApp\CashImport\obj\Debug\CashImport.pdb
+E:\CashImportApp\CashImport\bin\Debug\CashImport.exe.manifest
+E:\CashImportApp\CashImport\bin\Debug\CashImport.application
+E:\CashImportApp\CashImport\bin\Debug\CashImport.exe
+E:\CashImportApp\CashImport\bin\Debug\CashImport.pdb
+E:\CashImportApp\CashImport\bin\Debug\FileEncrypt.pdb
+E:\CashImportApp\CashImport\obj\Debug\CashImport.csprojResolveAssemblyReference.cache
+E:\CashImportApp\CashImport\obj\Debug\CashImport.CashImportForm.resources
+E:\CashImportApp\CashImport\obj\Debug\CashImport.Properties.Resources.resources
+E:\CashImportApp\CashImport\obj\Debug\CashImport.csproj.GenerateResource.Cache
+E:\CashImportApp\CashImport\obj\Debug\CashImport.exe.manifest
+E:\CashImportApp\CashImport\obj\Debug\CashImport.application

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="CashImport.exe" version="1.0.0.0" publicKeyToken="4761154e78a8b27f" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CashImport" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="CashImport.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CashImport.exe" size="46528">
+      <assemblyIdentity name="CashImport" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>5qIcepCNc97IJg753ubOki9Wvfo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FileEncrypt.dll" size="10240">
+      <assemblyIdentity name="FileEncrypt" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>Shcm3s/5+GOm7O8LmPXavwT/BiQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="CashImport.exe.config" size="144">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>cpzNzlRjZspwKGLNlX6RAlU3880=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LEARNUEL\Learnuel Tech" issuerKeyHash="780338f21d29d921519b55e7579156e4499fe2f2" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Upo2XZ4wy5CXs3aD9SCLMFyCSvM=</DigestValue></Reference></SignedInfo><SignatureValue>eSZzfE8uwtnfbYverecuDYciv1V9/2IZw7JeNlLwFNreorNkIDjCSm6y+6/j5mxTDejZwawO1DZO2K4YZ/rpejquODmTefOqz1pOEthKQ+J0CjdiosnORP1ACAo2JGBj52ZjLaJaPmqU5SBhOX6Gp1ioad//gHtR7sUkWYI4m10=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>x3FjH6jAJs9nauMuE1qwX8S6I0z545DwvwqYMeESd3j3fv9TqBiyhT18Rs4gaBn/K75XKHELo+ag1agUE5GLC3oHy7DyC8vbyotnyUjX9n9CQQpmvaaq+ZrBPpwxR0g36IpQoJOmok5JR/bvbz25HepWBWkogGyf7qo29sIS5ss=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="f34a825c308b20f58376b39790cb309e5d369a52" Description="" Url=""><as:assemblyIdentity name="CashImport.exe" version="1.0.0.0" publicKeyToken="4761154e78a8b27f" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LEARNUEL\Learnuel Tech</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>Ufh7sbMffydp8Gn9HJl1+QjzDSA=</DigestValue></Reference></SignedInfo><SignatureValue>o6CxjV6j1AwGKBeJHIT5cuO1jbhZZAHpb0ph3E/uI0LuZ9hD2vfPkhh6kogyhdKvFeXKEdCFqLPcSeDfE1lI+4g7ijgrMiFqjRzDywGnxUBj6n7Vqhgor+bOXpxBg7jDM8tCfvTLp54wF00w5/LVmwvUaxc6Y8KVFZ0YXUowU4I=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>x3FjH6jAJs9nauMuE1qwX8S6I0z545DwvwqYMeESd3j3fv9TqBiyhT18Rs4gaBn/K75XKHELo+ag1agUE5GLC3oHy7DyC8vbyotnyUjX9n9CQQpmvaaq+ZrBPpwxR0g36IpQoJOmok5JR/bvbz25HepWBWkogGyf7qo29sIS5ss=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB8TCCAVqgAwIBAgIQLx4jfn3KyblLNb69sMwsxTANBgkqhkiG9w0BAQUFADA3MTUwMwYDVQQDHiwATABFAEEAUgBOAFUARQBMAFwATABlAGEAcgBuAHUAZQBsACAAVABlAGMAaDAeFw0yMDAxMTIwMjU4MzlaFw0yMTAxMTEwODU4MzlaMDcxNTAzBgNVBAMeLABMAEUAQQBSAE4AVQBFAEwAXABMAGUAYQByAG4AdQBlAGwAIABUAGUAYwBoMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDHcWMfqMAmz2dq4y4TWrBfxLojTPnjkPC/Cpgx4RJ3ePd+/1OoGLKFPXxGziBoGf8rvlcocQuj5qDVqBQTkYsLegfLsPILy9vKi2fJSNf2f0JBCma9pqr5msE+nDFHSDfoilCgk6aiTklH9u9vPbkd6lYFaSiAbJ/uqjb2whLmywIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAFc+kNrdT4jvE1SQHqbXhP0BFf5xgqLYY6yQ1Y7oNKdkjmoRg0me6ECJa7FvMBu9z4gl171FewN7P3OrXTlR+oJs32XnDWOQYnj6ifvMrKA5OjMWq8tSMa7K1Z9BTPMhhAUBMNs0nUkzKhePqAxUgYt7ADppZPf2OkQf+d0dGnXp</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
